@@ -1,0 +1,10 @@
+.idea
+*.json
+*.pyproj
+*.pyc
+__pycache__/
+build/
+dist/
+tests/
+README2
+telegram_bot.egg-info/
